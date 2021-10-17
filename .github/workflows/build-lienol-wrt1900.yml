@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build lienol k3
+name: Build lienol wrt1900
 
 on:
   repository_dispatch:
