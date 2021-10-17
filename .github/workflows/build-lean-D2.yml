@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build lean wrt1900
+name: Build lean D2
 
 on:
   repository_dispatch:
